@@ -9,4 +9,6 @@ a classic, no-bake Italian dessert featuring espresso-soaked ladyfingers layered
 traditional pastry consisting of crispy, deep-fried dough tubes generously stuffed with a sweet, creamy ricotta filling
 
 ## Gelato
-Italian frozen dessert that is slowly churned to incorporate less air than standard ice cream, resulting in a significantly denser, smoother, and more intensely flavored treat
+An italian frozen dessert that is slowly churned to incorporate less air than standard ice cream, resulting in a significantly denser, smoother, and more intensely flavored treat
+
+![< Back](/index.md)
